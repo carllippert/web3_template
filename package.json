@@ -1,0 +1,7 @@
+{
+    "name": "web3_template",
+    "private": true,
+    "workspaces": [
+        "packages/*"
+    ]
+}
